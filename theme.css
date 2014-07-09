@@ -764,7 +764,7 @@ form input[type=submit],
     /* internal styling - padding etc. */
     /* typography */
     font-family: Arial;
-    font-size: 9px;
+    font-size: 12px;
     font-weight: normal;
     -moz-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
     -webkit-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
@@ -818,7 +818,7 @@ div.uploader span.action
     padding-left: 5px;
     /* typography */
     font-family: Arial;
-    font-size: 9px;
+    font-size: 12px;
     font-weight: normal;
     text-align: left;
     -moz-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
@@ -828,7 +828,7 @@ div.uploader span.action
 div.uploader span.filename,
 div.uploader span.action
 {
-    font-size: 18px;
+    font-size: 12px;
 }
 
 .game-content form table {
