@@ -852,7 +852,7 @@ div.uploader span.action
 
     font-family: Arial;
     font-weight: normal;
-    font-size: 14px;
+    font-size: 12px;
     text-align: center;
     text-decoration: none;
     vertical-align: bottom;
@@ -900,14 +900,14 @@ div.uploader span.action
 .game-content form.change-kingdom #royal-commands table tbody td,
 .game-content form.change-kingdom #royal-commands input[type=text] {
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: normal;
 }
 
 
 .game-content form.change-kingdom #royal-commands .button-link {
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 12px;
+    line-height: 16px;
 }
 
 /* KINGDOM NEWS */
