@@ -77,12 +77,12 @@ body {
 
 .navigation a {
     text-decoration: none;
-    color: #fff;
+    color: #A9A9A9;
 }
 
 .navigation a:hover  {
     /* colors */
-    //color: white;
+    color: white;
 }
 
 //#header-navigation div {
