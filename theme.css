@@ -655,8 +655,8 @@ h3 {
 }
 
 .game-content form {
-    font-size: 16px;
-    font-weight: bold;
+    font-size: 14px;
+    font-weight: normal;
     background: #000055; /* Old browsers */
     background: #000055; /* FF3.6+ */
     background: #000055; /* Chrome,Safari4+ */
