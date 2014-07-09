@@ -75,12 +75,12 @@ body {
     //background: radial-gradient(center, ellipse cover,  #7b7354 0%,#29261c 100%); /* W3C */
 }
 
-//.navigation a {
-    //text-decoration: none;
-    //color: #fff;
+.navigation a {
+    text-decoration: none;
+    color: #fff;
 }
 
-//.navigation a:hover  {
+.navigation a:hover  {
     /* colors */
     //color: white;
 }
