@@ -127,7 +127,7 @@ body {
 
 #account-details
 {
-    font-size: 12px;
+    font-size: 14px;
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     line-height: 16px;
     background-color: #494432;
@@ -185,7 +185,7 @@ body {
     /* typography */
     font-size: 12px;
     font-family: Arial;
-    line-height: 11px;
+    line-height: 12px;
     background-color: black;
     /* colors */
     /* display, opacity and special effects */
@@ -536,7 +536,7 @@ h3 {
 
     /* typography */
     font-family: Arial;
-    font-size: 12px;
+    font-size: 14px;
     text-align: center;
 
     //-moz-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
@@ -581,7 +581,7 @@ h3 {
     padding: 3px 6px 3px 6px;
     background: transparent;
 
-    font-size: 11px;
+    font-size: 12px;
     font-weight: lighter;
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     text-align: center;
@@ -693,7 +693,7 @@ form ul.errorlist {
 }
 
 .game-content form.change-kingdom .change-kingdom-form {
-    font-size: 10px;
+    font-size: 14px;
     color: #a9a9a9;
     //-moz-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     //-webkit-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
@@ -721,7 +721,7 @@ form input[type=password] {
     border-color: #d7d7d7;
     padding-left: 3px;
     font-family: Arial;
-    font-size: 12px;
+    font-size: 14px;
     text-align: left;
 
     -moz-box-shadow: inset 0px 0px 4px #7c4a14;
@@ -743,11 +743,11 @@ form input[type=password] {
 form input[type=text],
 form input[type=password] {
     height: 15px;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 form .errorlist {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 form input[type=submit],
@@ -764,7 +764,7 @@ form input[type=submit],
     /* internal styling - padding etc. */
     /* typography */
     font-family: Arial;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: normal;
     -moz-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
     -webkit-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
@@ -818,7 +818,7 @@ div.uploader span.action
     padding-left: 5px;
     /* typography */
     font-family: Arial;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: normal;
     text-align: left;
     -moz-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
@@ -852,7 +852,7 @@ div.uploader span.action
 
     font-family: Arial;
     font-weight: normal;
-    font-size: 12px;
+    font-size: 14px;
     text-align: center;
     text-decoration: none;
     vertical-align: bottom;
@@ -871,7 +871,7 @@ div.uploader span.action
 
 .game-content form tbody td {
     padding-right: 20px;
-    font-size: 12px;
+    font-size: 14px;
     text-align: center;
 }
 
@@ -900,14 +900,14 @@ div.uploader span.action
 .game-content form.change-kingdom #royal-commands table tbody td,
 .game-content form.change-kingdom #royal-commands input[type=text] {
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: normal;
 }
 
 
 .game-content form.change-kingdom #royal-commands .button-link {
-    font-size: 12px;
-    line-height: 13px;
+    font-size: 14px;
+    line-height: 14px;
 }
 
 /* KINGDOM NEWS */
