@@ -357,7 +357,7 @@ div.radio {
 
 /* Uploader */
 div.uploader {
-  width: 30px;
+  width: 300px;
   margin-bottom: 20px;
   cursor: pointer;
 }
@@ -377,7 +377,7 @@ div.uploader span.filename {
 }
 
 div.uploader input {
-  width: 30px;
+  width: 300px;
 }
 
 div.uploader.disabled span.action {
