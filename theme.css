@@ -545,17 +545,17 @@ h3 {
     //text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
 
     /* colors */
-    border-color: #550000;
-    -moz-box-shadow:    #550000
-    -webkit-box-shadow: #550000
-    box-shadow:     #550000
-    background: #550000; /* Old browsers */
-    background: #550000; /* FF3.6+ */
-    background: #550000; /* Chrome,Safari4+ */
-    background: #550000; /* Chrome10+,Safari5.1+ */
-    background: #550000; /* Opera 12+ */
-    background: #550000; /* IE10+ */
-    background: #550000; /* W3C */
+    border-color: #440000;
+    -moz-box-shadow:    #440000
+    -webkit-box-shadow: #440000
+    box-shadow:     #440000
+    background: #440000; /* Old browsers */
+    background: #440000; /* FF3.6+ */
+    background: #440000; /* Chrome,Safari4+ */
+    background: #440000; /* Chrome10+,Safari5.1+ */
+    background: #440000; /* Opera 12+ */
+    background: #440000; /* IE10+ */
+    background: #440000; /* W3C */
 
 }
 
@@ -637,13 +637,13 @@ h3 {
     //-webkit-text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
     //text-shadow: -1px 1px 1px #000, 1px -1px 1px #69634D;
 
-    background: #000055; /* Old browsers */
-    background: #000055; /* FF3.6+ */
-    background: #000055; /* Chrome,Safari4+ */
-    background: #000055; /* Chrome10+,Safari5.1+ */
-    background: #000055; /* Opera 12+ */
-    background: #000055; /* IE10+ */
-    background: #000055; /* W3C */
+    background: #000044; /* Old browsers */
+    background: #000044; /* FF3.6+ */
+    background: #000044; /* Chrome,Safari4+ */
+    background: #000044; /* Chrome10+,Safari5.1+ */
+    background: #000044; /* Opera 12+ */
+    background: #000044; /* IE10+ */
+    background: #000044; /* W3C */
 
 }
 
@@ -689,7 +689,7 @@ form ul.errorlist {
 
 .game-content form.change-kingdom .change-kingdom-heading {
     font-size: 20px;
-    background: #000055;
+    background: #000044;
     filter: glow(color=#252525,strength=3);
     line-height: 17px;
 }
@@ -1134,7 +1134,7 @@ td.news-province-modification {
 
 
     /* colors */
-    border-color: #000055;
+    border-color: #000044;
     -moz-box-shadow:    0px -1px 1px #fffbf1,
                                     inset 0px 1px 2px #000,
                                     inset 0px -1px 1px #fffbf1,
@@ -1166,7 +1166,7 @@ td.news-province-modification {
     //border: 0px;
     //border-top: 2px solid;
     //border-bottom: 2px solid;
-    //border-color: #000055;
+    //border-color: #000044;
     color: white;
     //-moz-box-shadow:    0px -1px 1px #fffbf1,
                                     inset 0px 1px 2px #000,
@@ -1197,13 +1197,13 @@ td.news-province-modification {
     //-webkit-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
     //text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
 
-    background: #000055; /* Old browsers */
-    background: #000055; /* FF3.6+ */
-    background: #000055; /* Chrome,Safari4+ */
-    background: #000055; /* Chrome10+,Safari5.1+ */
-    background: #000055; /* Opera 12+ */
-    background: #000055; /* IE10+ */
-    background: #000055; /* W3C */
+    background: #000044; /* Old browsers */
+    background: #000044; /* FF3.6+ */
+    background: #000044; /* Chrome,Safari4+ */
+    background: #000044; /* Chrome10+,Safari5.1+ */
+    background: #000044; /* Opera 12+ */
+    background: #000044; /* IE10+ */
+    background: #000044; /* W3C */
 }
 
 .game-content tbody th {
