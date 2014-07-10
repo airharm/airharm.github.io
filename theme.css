@@ -658,13 +658,13 @@ h3 {
 .game-content form {
     font-size: 14px;
     font-weight: normal;
-    background: #000055; /* Old browsers */
-    background: #000055; /* FF3.6+ */
-    background: #000055; /* Chrome,Safari4+ */
-    background: #000055; /* Chrome10+,Safari5.1+ */
-    background: #000055; /* Opera 12+ */
-    background: #000055; /* IE10+ */
-    background: #000055; /* W3C */
+    //background: #000055; /* Old browsers */
+    //background: #000055; /* FF3.6+ */
+    //background: #000055; /* Chrome,Safari4+ */
+    //background: #000055; /* Chrome10+,Safari5.1+ */
+    //background: #000055; /* Opera 12+ */
+    //background: #000055; /* IE10+ */
+    //background: #000055; /* W3C */
 }
 
 .game-content form.no-visible-fields {
@@ -689,7 +689,7 @@ form ul.errorlist {
 
 .game-content form.change-kingdom .change-kingdom-heading {
     font-size: 14px;
-    background-color: #000055
+    background: #000055;
     filter: glow(color=#252525,strength=3);
     line-height: 17px;
 }
