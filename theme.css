@@ -715,6 +715,10 @@ form ul.errorlist {
 
 }
 
+.game-content form.change-kingdom-nav .change-kingdom-nav {
+    font-size:10px;
+}
+
 input[type=text],
 form textarea,
 form input[type=text],
