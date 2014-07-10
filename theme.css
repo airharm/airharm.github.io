@@ -185,7 +185,7 @@ body {
     /* typography */
     font-size: 12px;
     font-family: Arial;
-    line-height: 12px;
+    line-height: 13px;
     background-color: black;
     /* colors */
     /* display, opacity and special effects */
@@ -490,9 +490,9 @@ h3 {
     padding: 11px 0px;
 
     font-family: Arial;
-    font-size: 14px;
-    font-weight: bold;
-    color: #A9A9A9;
+    font-size: 12px;
+    font-weight: normal;
+    color: white;
     //text-shadow: -1px 1px 2px black, 1px -1px 1px #FFCF68;
 
     /* border styling */
