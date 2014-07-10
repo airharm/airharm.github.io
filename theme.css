@@ -684,7 +684,7 @@ form ul.errorlist {
 .game-content form.change-kingdom {
     /* typography */
     font-family: Arial;
-    font-size: 16px;
+    font-size: 8px;
 }
 
 .game-content form.change-kingdom .change-kingdom-heading {
@@ -695,7 +695,7 @@ form ul.errorlist {
 }
 
 .game-content form.change-kingdom .change-kingdom-form {
-    font-size: 14px;
+    font-size: 8px;
     color: #a9a9a9;
     //-moz-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     //-webkit-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
@@ -713,10 +713,6 @@ form ul.errorlist {
     //box-shadow:         0px -1px 1px #fffbf1,
                         inset 0px 1px 2px #000;
 
-}
-
-.game-content form.change-kingdom .change-kingdom-nav {
-    font-size:8px;
 }
 
 input[type=text],
