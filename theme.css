@@ -1125,17 +1125,17 @@ td.news-province-modification {
 }
 
 .game-content {
-    //border: 2px solid;
+    border: 1px solid;
 
     /* border styling */
-    border-radius: 2px;
-    -moz-border-radius: 2px;
-    -webkit-border-radius: 2px;
+    border-radius: 1px;
+    -moz-border-radius: 1px;
+    -webkit-border-radius: 1px;
 
 
     /* colors */
     border-color: #000055;
-    //-moz-box-shadow:    0px -1px 1px #fffbf1,
+    -moz-box-shadow:    0px -1px 1px #fffbf1,
                                     inset 0px 1px 2px #000,
                                     inset 0px -1px 1px #fffbf1,
                                     0px 1px 1px #000,
@@ -1143,7 +1143,7 @@ td.news-province-modification {
                                     inset 1px 0px 1px #fffbf1,
                                     inset -1px 0px 2px #000,
                                     1px 0px 1px #fffbf1;
-    //-webkit-box-shadow: 0px -1px 1px #fffbf1,
+    -webkit-box-shadow: 0px -1px 1px #fffbf1,
                                         inset 0px 1px 2px #000,
                                         inset 0px -1px 1px #fffbf1,
                                         0px 1px 1px #000,
@@ -1151,7 +1151,7 @@ td.news-province-modification {
                                         inset 1px 0px 1px #fffbf1,
                                         inset -1px 0px 2px #000,
                                         1px 0px 1px #fffbf1;
-    //box-shadow:     0px -1px 1px #fffbf1,
+    box-shadow:     0px -1px 1px #fffbf1,
                                 inset 0px 1px 2px #000,
                                 inset 0px -1px 1px #fffbf1,
                                 0px 1px 1px #000,
