@@ -1110,13 +1110,13 @@ td.news-province-modification {
     -webkit-text-shadow: none;
     text-shadow: none;
 
-    background: #29261c; /* Old browsers */
-    background: -moz-linear-gradient(top,  #29261c 0%, #494432 15%, #7b7354 45%, #7b7354 55%, #494432 84%, #29261c 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#29261c), color-stop(15%,#494432), color-stop(45%,#7b7354), color-stop(55%,#7b7354), color-stop(84%,#494432), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* IE10+ */
-    background: linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* W3C */
+    //background: #29261c; /* Old browsers */
+    //background: -moz-linear-gradient(top,  #29261c 0%, #494432 15%, #7b7354 45%, #7b7354 55%, #494432 84%, #29261c 100%); /* FF3.6+ */
+    //background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#29261c), color-stop(15%,#494432), color-stop(45%,#7b7354), color-stop(55%,#7b7354), color-stop(84%,#494432), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
+    //background: -webkit-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* Chrome10+,Safari5.1+ */
+    //background: -o-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* Opera 11.10+ */
+    //background: -ms-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* IE10+ */
+    //background: linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* W3C */
 
     color: black;
     box-shadow: 0px 5px 3px -3px #fff;
@@ -1134,7 +1134,7 @@ td.news-province-modification {
 
     /* colors */
     border-color: #000055;
-    -moz-box-shadow:    0px -1px 1px #fffbf1,
+    //-moz-box-shadow:    0px -1px 1px #fffbf1,
                                     inset 0px 1px 2px #000,
                                     inset 0px -1px 1px #fffbf1,
                                     0px 1px 1px #000,
@@ -1142,7 +1142,7 @@ td.news-province-modification {
                                     inset 1px 0px 1px #fffbf1,
                                     inset -1px 0px 2px #000,
                                     1px 0px 1px #fffbf1;
-    -webkit-box-shadow: 0px -1px 1px #fffbf1,
+    //-webkit-box-shadow: 0px -1px 1px #fffbf1,
                                         inset 0px 1px 2px #000,
                                         inset 0px -1px 1px #fffbf1,
                                         0px 1px 1px #000,
@@ -1150,7 +1150,7 @@ td.news-province-modification {
                                         inset 1px 0px 1px #fffbf1,
                                         inset -1px 0px 2px #000,
                                         1px 0px 1px #fffbf1;
-    box-shadow:     0px -1px 1px #fffbf1,
+    //box-shadow:     0px -1px 1px #fffbf1,
                                 inset 0px 1px 2px #000,
                                 inset 0px -1px 1px #fffbf1,
                                 0px 1px 1px #000,
