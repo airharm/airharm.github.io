@@ -299,7 +299,7 @@ div.uploader.disabled span.action {
 /* Select */
 div.selector {
   margin-bottom: 8px;
-  width: 30px;
+  width: 300px;
 }
 
 div.selector select {
@@ -357,7 +357,7 @@ div.radio {
 
 /* Uploader */
 div.uploader {
-  width: 300px;
+  width: 30px;
   margin-bottom: 20px;
   cursor: pointer;
 }
@@ -377,7 +377,7 @@ div.uploader span.filename {
 }
 
 div.uploader input {
-  width: 300px;
+  width: 30px;
 }
 
 div.uploader.disabled span.action {
