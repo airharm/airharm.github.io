@@ -684,7 +684,7 @@ form ul.errorlist {
 .game-content form.change-kingdom {
     /* typography */
     font-family: Arial;
-    font-size: 8px;
+    font-size: 16px;
 }
 
 .game-content form.change-kingdom .change-kingdom-heading {
@@ -695,7 +695,7 @@ form ul.errorlist {
 }
 
 .game-content form.change-kingdom .change-kingdom-form {
-    font-size: 8px;
+    font-size: 14px;
     color: #a9a9a9;
     //-moz-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     //-webkit-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
