@@ -573,20 +573,20 @@ h3 {
     font-weight: normal;
 }
 
-//#resource-bar tbody th,
-//#resource-bar tbody td{
-    //width: 98px;
-    //border-right: 1px inset #444444;
-    //border-bottom: 1px inset #444444;
+#resource-bar tbody th,
+#resource-bar tbody td{
+    width: 98px;
+    border-right: 1px inset #444444;
+    border-bottom: 1px inset #444444;
 
-    //padding: 3px 6px 3px 6px;
-    //background: transparent;
+    padding: 3px 6px 3px 6px;
+    background: transparent;
 
-    //font-size: 12px;
-    //font-weight: lighter;
-    //font-family: 'Trebuchet MS', Helvetica, sans-serif;
-    //text-align: center;
-    //color: white;
+    font-size: 12px;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    text-align: center;
+    color: white;
     //-moz-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     //-webkit-text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
     //text-shadow: -1px 1px 1px #222222, 1px -1px 1px #222222, 1px 1px 1px #222222, -1px -1px 1px #7b7354;
