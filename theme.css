@@ -593,12 +593,12 @@ h3 {
     //filter: glow(color=#252525,strength=3);
 }
 
-//#resource-bar tbody th {
+#resource-bar tbody th {
     font-size: 12px;
     font-weight: normal;
 }
 
-//#resource-bar thead th {
+#resource-bar thead th {
     width: 98px;
     border-right: 1px inset #141413;
     border-bottom: 1px inset #141413;
