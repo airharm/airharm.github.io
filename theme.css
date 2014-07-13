@@ -760,7 +760,6 @@ form .errorlist {
 form input[type=submit],
 .button-link {
     /* positioning and size */
-    height: 15px;
 
     /* border styling */
     border: 1px solid;
