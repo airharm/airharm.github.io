@@ -573,11 +573,11 @@ h3 {
     font-weight: normal;
 }
 
-//#resource-bar tbody th,
-//#resource-bar tbody td{
+#resource-bar tbody th,
+#resource-bar tbody td{
     width: 98px;
-    border-right: 1px inset #444444;
-    border-bottom: 1px inset #444444;
+    //border-right: 1px inset #444444;
+    //border-bottom: 1px inset #444444;
 
     padding: 3px 6px 3px 6px;
     background: transparent;
