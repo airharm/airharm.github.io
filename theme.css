@@ -715,6 +715,10 @@ form ul.errorlist {
 
 }
 
+.game-content form.change-kingdom .change-kingdom-nav a {
+    width: 90px;
+}
+
 input[type=text],
 form textarea,
 form input[type=text],
@@ -912,9 +916,6 @@ div.uploader span.action
     line-height: 14px;
 }
 
-.game-content form.change-kingdom .change-kingdom-nav {
-    width: 1000px;
-}
 /* KINGDOM NEWS */
 
 .news-legend span.news-aid:before {
