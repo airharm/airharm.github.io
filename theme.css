@@ -688,10 +688,10 @@ form ul.errorlist {
 }
 
 .game-content form.change-kingdom .change-kingdom-heading {
-    font-size: 20px;
+    font-size: 18px;
     background: #000044;
     filter: glow(color=#252525,strength=3);
-    line-height: 26px;
+    line-height: 28px;
 }
 
 .game-content form.change-kingdom .change-kingdom-form {
