@@ -1056,77 +1056,33 @@ td.news-province-modification {
 }
 
 
-.game-header
+.game-header 
 {
     height: 24px;
-    //border-top: 2px solid #6b6348;
-    //border-bottom: 2px solid #6b6348;
-    //background: black; /* Old browsers */
-    //background: -moz-radial-gradient(center, ellipse cover,  #d4caa8 0%, #45402e 100%); /* FF3.6+ */
-    //background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#d4caa8), color-stop(100%,#45402e)); /* Chrome,Safari4+ */
-    //background: -webkit-radial-gradient(center, ellipse cover,  #d4caa8 0%,#45402e 100%); /* Chrome10+,Safari5.1+ */
-    //background: -o-radial-gradient(center, ellipse cover,  #d4caa8 0%,#45402e 100%); /* Opera 12+ */
-    //background: -ms-radial-gradient(center, ellipse cover,  #d4caa8 0%,#45402e 100%); /* IE10+ */
-    //background: radial-gradient(center, ellipse cover,  #d4caa8 0%,#45402e 100%); /* W3C */
 }
-
-.game-header h1
-{
-    height: 18px;
-    margin: 0px 1px;
-    padding: 6px 4px 1px 4px;
-
+.game-header h1 {
+    background: none repeat scroll 0 0 #3b4041;
+    border-radius: 5px 5px 0 0;
+    box-shadow: -1px -1px 1px 1px #788183;
+    color: #ccc;
     font-size: 14px;
+    height: 18px;
+    margin: 0 2px;
+    padding: 6px 6px 1px;
     text-decoration: none;
-    font-family: Arial;
-    //-moz-text-shadow: 1px -1px 1px #908661;
-    //-webkit-text-shadow: 1px -1px 1px #908661;
-    //text-shadow: 1px -1px 1px #908661;
-    //filter: glow(color=#252525,strength=3);
-
-    //-moz-box-shadow: 1px 1px 1px 1px #6d664a;
-    //-webkit-box-shadow: 1px 1px 1px 1px #6d664a;
-    //box-shadow: 1px 1px 1px 1px #6d664a;
-
-    //background: #c4bea9; /* Old browsers */
-    //background: -moz-linear-gradient(top,  #908661 0%, #c4bea9 15%, #f9f9f9 33%, #f9f9f9 65%, #c4bea9 84%, #908661 100%); /* FF3.6+ */
-    //background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#908661), color-stop(15%,#c4bea9), color-stop(33%,#f9f9f9), color-stop(65%,#f9f9f9), color-stop(84%,#c4bea9), color-stop(100%,#908661)); /* Chrome,Safari4+ */
-    //background: -webkit-linear-gradient(top,  #908661 0%,#c4bea9 15%,#f9f9f9 33%,#f9f9f9 65%,#c4bea9 84%,#908661 100%); /* Chrome10+,Safari5.1+ */
-    //background: -o-linear-gradient(top,  #908661 0%,#c4bea9 15%,#f9f9f9 33%,#f9f9f9 65%,#c4bea9 84%,#908661 100%); /* Opera 11.10+ */
-    //background: -ms-linear-gradient(top,  #908661 0%,#c4bea9 15%,#f9f9f9 33%,#f9f9f9 65%,#c4bea9 84%,#908661 100%); /* IE10+ */
-   //background: linear-gradient(top,  #908661 0%,#c4bea9 15%,#f9f9f9 33%,#f9f9f9 65%,#c4bea9 84%,#908661 100%); /* W3C */
-
-    color: #A9A9A9;
-
+    transition: all 0.75s ease 0s;
 }
-
 .game-header a h1 {
-    background: #3a3830; /* Old browsers */
-    background: #3a3830; /* FF3.6+ */
-    background: #3a3830; /* Chrome,Safari4+ */
-    background: #3a3830; /* Chrome10+,Safari5.1+ */
-    background: #3a3830; /* Opera 11.10+ */
-    background: #3a3830; /* IE10+ */
-    background: #3a3830; /* W3C */
+    background: none repeat scroll 0 0 #222526;
+    color: #999;
 }
-
-.game-header a h1:hover
-{
-    -moz-text-shadow: none;
-    -webkit-text-shadow: none;
-    text-shadow: none;
-
-    background: #29261c; /* Old browsers */
-    background: -moz-linear-gradient(top,  #29261c 0%, #494432 15%, #7b7354 45%, #7b7354 55%, #494432 84%, #29261c 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#29261c), color-stop(15%,#494432), color-stop(45%,#7b7354), color-stop(55%,#7b7354), color-stop(84%,#494432), color-stop(100%,#29261c)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* IE10+ */
-    background: linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* W3C */
-
-    color: black;
-    box-shadow: 0px 5px 3px -6px #fff;
-
+.game-header a:hover {
+    text-decoration: none;
+}
+.game-header a h1:hover {
+    background: none repeat scroll 0 0 #3b4041;
+    box-shadow: -1px -1px 1px 1px #b5b9ba;
+    color: #fff;
 }
 
 .game-content {
