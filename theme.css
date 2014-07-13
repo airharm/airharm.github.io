@@ -908,10 +908,13 @@ div.uploader span.action
 
 
 .game-content form.change-kingdom #royal-commands .button-link {
-    font-size: 12px;
-    line-height: 12px;
+    font-size: 14px;
+    line-height: 14px;
 }
 
+.game-content form.change-kingdom-nav .button-link {
+    font-size 10px;
+}
 /* KINGDOM NEWS */
 
 .news-legend span.news-aid:before {
