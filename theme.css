@@ -1125,7 +1125,7 @@ td.news-province-modification {
     background: linear-gradient(top,  #29261c 0%,#494432 15%,#7b7354 45%,#7b7354 55%,#494432 84%,#29261c 100%); /* W3C */
 
     color: black;
-    box-shadow: 0px 5px 3px -3px #fff;
+    box-shadow: 0px 5px 3px 0px #fff;
 
 }
 
