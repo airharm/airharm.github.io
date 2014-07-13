@@ -912,7 +912,7 @@ div.uploader span.action
     line-height: 14px;
 }
 
-.game-content form.change-kingdom-nav .button-link {
+.game-content div.change-kingdom-nav a.button-link {
     font-size 10px;
 }
 /* KINGDOM NEWS */
