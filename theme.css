@@ -102,7 +102,7 @@ div#right-column {
 
 #account-header:hover
 {
-    background-color: #494432;
+    color: white;
 }
 
 #account-header.selected
