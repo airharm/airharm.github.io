@@ -69,7 +69,7 @@ div#right-column {
     font-size: 16px;
     font-weight: normal;
     text-align: center;
-    line-height: 1.1em;
+    line-height: 1.0em;
 
 }
 
@@ -108,7 +108,7 @@ div#right-column {
 
 #account-header.selected
 {
-    background-color: #494432;
+    background-color: #000044;
 }
 
 #account-details
@@ -116,7 +116,7 @@ div#right-column {
     font-size: 14px;
     font-family: 'Trebuchet MS', Helvetica, sans-serif;
     line-height: 16px;
-    background-color: #494432;
+    background-color: black;
 }
 
 #account-details .account-title
