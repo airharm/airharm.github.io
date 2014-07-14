@@ -89,7 +89,7 @@ div#right-column {
 }
 
 #account-container {
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 14px;
 }
 
@@ -124,7 +124,7 @@ div#right-column {
 {
     font-size: 14px;
     font-weight: bold;
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     border-bottom: 1px solid #29261c;
     -moz-box-shadow: 0px 2px 1px -1px #7b7354;
     -webkit-box-shadow: 0px 2px 1px -1px #7b7354;
@@ -171,7 +171,7 @@ div#right-column {
     background-position: top left;
     /* typography */
     font-size: 12px;
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     line-height: 12px;
     background-color: black;
     /* colors */
@@ -314,7 +314,7 @@ h3 {
 }
 
 .lobby-panel table th {
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 14px;
 }
 
@@ -375,7 +375,7 @@ h3 {
 
     /* internal styling - padding etc. */
     /* typography */
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 14px;
 }
 
@@ -509,7 +509,7 @@ h3 {
     /* internal styling - padding etc. */
 
     /* typography */
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 14px;
     text-align: center;
 
@@ -656,7 +656,7 @@ form ul.errorlist {
 
 .game-content form.change-kingdom {
     /* typography */
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 16px;
     background: #000044;
 }
@@ -700,7 +700,7 @@ form input[type=password] {
     border-width: 1px;
     border-color: #d7d7d7;
     padding-left: 3px;
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 14px;
     text-align: left;
 
@@ -743,7 +743,7 @@ form input[type=submit],
 
     /* internal styling - padding etc. */
     /* typography */
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 14px;
     font-weight: normal;
     -moz-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
@@ -797,7 +797,7 @@ div.uploader span.action
 {
     padding-left: 5px;
     /* typography */
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 14px;
     font-weight: normal;
     text-align: left;
@@ -830,7 +830,7 @@ div.uploader span.action
 .game-content form table thead th {
     height: 24px;
 
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-weight: normal;
     font-size: 14px;
     text-align: center;
@@ -840,7 +840,7 @@ div.uploader span.action
 
 .game-content form tbody th {
     border-left: 2px ridge rgba(48, 48, 48, 0.4);
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 14px;
 
 }
@@ -959,7 +959,7 @@ td.news-province-modification {
 }
 
 .provinces-legend .invitations {
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 14px;
 }
 
@@ -1122,7 +1122,7 @@ td.news-province-modification {
 
 
 .game-content thead th {
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-weight: normal;
     font-size: 12px;
     
@@ -1142,7 +1142,7 @@ td.news-province-modification {
 
 .game-content tbody th {
 
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 12px;
     color: #A9A9A9;
 
@@ -1341,7 +1341,7 @@ body.wysiwyg {
 }
 
 .campaigns .campaign-message-intro {
-    font-family: Arial;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-weight: 200;
     color: white;
     text-shadow: -1px 1px 2px black;
