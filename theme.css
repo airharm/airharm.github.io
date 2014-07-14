@@ -35,14 +35,7 @@ body {
     display: none;
 }
 
-.navigation {
-    border: 2px solid #103041;
-    border-radius: 2px;
-    font-size: 16px;
-    font-weight: normal;
-    text-align: center;
-    line-height: 1.2em;
-}
+
 .navigation a {
     color: silver;
     text-decoration: none;
@@ -76,6 +69,7 @@ div#right-column {
     font-size: 16px;
     font-weight: normal;
     text-align: center;
+    line-height: 1.2em;
 
 }
 
