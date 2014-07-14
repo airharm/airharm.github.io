@@ -202,8 +202,8 @@ a:hover {
 h1,
 h2,
 h3 {
-    font-family: Arial;
-    font-weight: bold;
+    font-family: 'Trebuchet MS',Helvetica,sans-serif;
+    font-weight: normal;
     text-align: center;
     color: #fff;
     -moz-text-shadow: -1px 1px 2px #000;
