@@ -492,8 +492,9 @@ h3 {
 }
 
 #game-navigation a:hover {
-    box-shadow: -10px 0px 6px -6px #fff;
-
+    box-shadow: -10px 0 6px -6px #fff;
+    color: white;
+    text-decoration: none;
 }
 
 #resource-bar
