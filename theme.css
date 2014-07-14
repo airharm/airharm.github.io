@@ -180,12 +180,14 @@ div#right-column {
 }
 
 a {
-    color: #e5c40f;
+    color: #45acf6;
     text-decoration: none;
 }
-
 a.highlighted {
-    color: #E68910;
+    color: #e68910;
+}
+a:focus, a:hover {
+    text-decoration: underline;
 }
 
 a.info-link {
