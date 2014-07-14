@@ -59,6 +59,25 @@ body {
     //opacity:0.7;
     //filter:alpha(opacity=70); /* For IE8 and earlier */
 }
+div#left-column {
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+div#right-column {
+    margin-top: 48px;
+}
+
+#header {
+    z-index: 900;
+    position: absolute
+}
+
+.navigation {
+    border: 2px solid #103041;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
 
 //#header-navigation div:hover {
     /* display, opacity and special effects */
@@ -455,12 +474,17 @@ h3 {
 }
 
 #game-navigation .current-date {
-    background: none repeat scroll 0 0 #222526;
     border: 2px solid #103041;
     border-radius: 2px;
     font-size: 12px;
-    margin-top: 5px;
-    padding: 15px 0;
+    margin: 0 6px 0 0;
+    //margin-top: 0;
+    padding: 6px;
+    top: -140px;
+    position: absolute;
+    z-index: 10000;
+    width: 84px;
+    text-align: center;
 }
 
 #game-navigation a {
