@@ -489,8 +489,11 @@ h3 {
     text-align: center;
 }
 
+
 #game-navigation a {
+    color: #999999;
     line-height: 0.6em;
+    transition: all 0.75s ease 0s;
 }
 
 #game-navigation a:hover {
