@@ -668,7 +668,7 @@ form ul.errorlist {
 }
 
 .game-content form.change-kingdom .change-kingdom-heading {
-    font-size: 16px;
+    font-size: 15px;
     background: #000044;
     filter: glow(color=#252525,strength=3);
     line-height: 20px;
