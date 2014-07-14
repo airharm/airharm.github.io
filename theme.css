@@ -473,11 +473,12 @@ h3 {
 }
 
 #game-navigation .current-date {
+    background: none repeat scroll 0 0 #222526;
     border: 2px solid #103041;
     border-radius: 2px;
     font-size: 14px;
     font-family: Arial;
-    color: silver;
+    //color: silver;
     margin: 0 6px 0 0;
     //margin-top: 0;
     padding: 6px;
