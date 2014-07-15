@@ -36,7 +36,6 @@ br {display:none}
 }
 
 .game-content table.two-column-stats th {
-	text-align: left;
         font-size: 13px;
 }
 
@@ -48,6 +47,7 @@ br {display:none}
 
 .game-content table.two-column-stats th {
     width: 23%;
+    text-align: left;
 }
 
 .game-content tbody td {
