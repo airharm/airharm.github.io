@@ -409,14 +409,13 @@ h3 {
 
 .good.message
 {
-    color: #dddddd
+    color: #dddddd;
     -moz-text-shadow: -1px 1px 2px #363a19, 1px -1px 2px #363a19;
     -webkit-text-shadow: -1px 1px 2px #363a19, 1px -1px 2px #363a19;
     text-shadow: -1px 1px 2px #363a19, 1px -1px 1px #363a19;
 
     /* colors */
-    border-color: #dddddd
-    color: #dddddd
+    border-color: #dddddd;
     -moz-box-shadow: 1px -1px 1px 0px #cbd3a9 , -1px 1px 2px #363a19, inset 0px 0px 10px #000;
     -webkit-box-shadow: 1px -1px 1px 0px #cbd3a9 , -1px 1px 2px #363a19, inset 0px 0px 10px #000;
     box-shadow: 1px -1px 1px 0px #cbd3a9 , -1px 1px 2px #363a19, inset 0px 0px 10px #000;
@@ -433,14 +432,13 @@ h3 {
 
 .bad.message
 {
-    color: #dddddd
+    color: #dddddd;
     -moz-text-shadow: -1px 1px 2px #331100, 1px -1px 2px #331100;
     -webkit-text-shadow: -1px 1px 2px #331100, 1px -1px 2px #331100;
     text-shadow: -1px 1px 2px #331100, 1px -1px 1px #331100;
 
     /* colors */
-    border-color: #dddddd
-    color: #dddddd
+    border-color: #dddddd;
     -moz-box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
     -webkit-box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
     box-shadow: 1px -1px 1px 0px #D3AEA9 , -1px 1px 2px #331100, inset 0px 0px 10px #000;
@@ -452,7 +450,6 @@ h3 {
     background: -o-radial-gradient(center, ellipse cover,  #641E04  0%,#401100 100%); /* Opera 12+ */
     background: -ms-radial-gradient(center, ellipse cover,  #641E04  0%,#401100 100%); /* IE10+ */
     background: radial-gradient(center, ellipse cover,  #641E04  0%,#401100 100%); /* W3C */
-
 }
 
 .info.message
