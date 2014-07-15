@@ -31,11 +31,6 @@ body {
     background-color: black;
 }
 
-#content-area {
-    text-align: left;
-    font-size: 13px;
-}
-
 .game-content table.two-column-stats th {
 	text-align: left;
         font-size: 13px;
@@ -200,7 +195,7 @@ div#right-column {
     /* colors */
     /* display, opacity and special effects */
     //box-shadow: 3px -3px 5px #191919, -10px 10px 10px #000;
-
+    text-align: left;
 }
 
 a {
