@@ -1124,59 +1124,67 @@ td.news-province-modification {
 }
 
 .game-content tbody th:first-child {
-    //border-left: none;
+    border-left: medium none;
 }
-
 .game-content tbody td {
-    //padding-right: 20px;
+    padding-right: 20px;
 }
-
+.game-content tbody td.forum-moderator-buttons {
+    padding-right: 10px;
+}
 .game-content tbody tr {
-    //border-bottom: 2px groove rgba(48, 48, 48, 0.4);
-    //border-top: 2px groove rgba(48, 48, 48, 0.4);
-
 }
-
-.game-content tbody tr:nth-child(even) {
-    /* display, opacity and special effects*/
-    //background: rgb(48, 48, 48);
-    //background: rgba(48, 48, 48, 0.6);
-
+.game-content tbody tr:nth-child(2n) {
+    background: none repeat scroll 0 0 rgba(48, 48, 48, 0.4);
 }
-
 .game-content tbody tr.sub-total {
-    //background: none;
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
 }
-.game-content tr.sub-total td
-{
-    //border-top: 2px solid #B9B9B9;
-    //padding-bottom: 25px;
+.game-content tr.sub-total td {
+    border-top: 2px solid #b9b9b9;
+    padding-bottom: 25px;
 }
-
-
-.game-content table.schedule
-{
-    //font-size:0.8em;
+.game-content table.schedule {
+    border-collapse: separate;
+    border-spacing: 3px;
+    font-size: 0.8em;
 }
-
-
 .two-digit-input {
-    width: 50px;
+    width: 30px;
 }
 .three-digit-input {
-    width: 55px;
+    width: 40px;
 }
-
 .four-digit-input {
+    width: 50px;
+}
+.five-digit-input {
+    width: 60px;
+}
+.six-digit-input {
     width: 70px;
 }
-
-.five-digit-input {
-    width: 85px;
+.game-content div.preference-box {
+    background-color: #400000;
 }
+.game-content div.preference-box.disabled {
+    background-color: #444;
+}
+div.wysiwyg {
+    background: none repeat scroll 0 0 rgb(83, 83, 83);
+    border: 1px solid #999;
+    padding: 5px;
+}
+div.wysiwyg ul.toolbar li {
+    background: url("./images/jquery.wysiwyg.gif") no-repeat scroll -64px -80px rgba(0, 0, 
 
-.six-digit-input {
-    width: 100px;
+0, 0);
+    border: 1px outset #83817d;
+}
+body.wysiwyg {
+    background: none repeat scroll 0 0 #2b3849;
+    color: #eeeeee;
+    font-size: 12px;
 }
 
 /* GAME PREFERENCES */
