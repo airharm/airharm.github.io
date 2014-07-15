@@ -48,6 +48,7 @@ body {
 
 .game-content tbody td {
     padding-right: 10px;
+    white-space: nowrap;
 }
 
 #header-logo {
