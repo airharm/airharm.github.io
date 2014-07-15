@@ -48,7 +48,11 @@ body {
 }
 
 .game-content table.two-column-stats th {
-    width: 20%;
+    width: 21%;
+}
+
+.game-content tbody td {
+    padding-right: 10px;
 }
 
 #header-logo {
@@ -1146,9 +1150,7 @@ td.news-province-modification {
 .game-content tbody th:first-child {
     border-left: medium none;
 }
-.game-content tbody td {
-    padding-right: 15px;
-}
+
 .game-content tbody td.forum-moderator-buttons {
     padding-right: 10px;
 }
