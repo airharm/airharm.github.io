@@ -31,6 +31,10 @@ body {
     background-color: black;
 }
 
+br {display:none}
+
+}
+
 .game-content table.two-column-stats th {
 	text-align: left;
         font-size: 13px;
