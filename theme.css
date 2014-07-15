@@ -31,6 +31,10 @@ body {
     background-color: black;
 }
 
+.game-content h2:first-child {
+    margin-top: 3px;
+}
+
 h2 br {
     display: none;
 }
