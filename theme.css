@@ -31,6 +31,26 @@ body {
     background-color: black;
 }
 
+#content-area {
+    text-align: left;
+    font-size: 13px;
+}
+
+.game-content table.two-column-stats th {
+	text-align: left;
+        font-size: 13px;
+}
+
+
+.game-content table.two-column-stats td {
+    text-align: right;
+    width: 30%;
+}
+
+.game-content table.two-column-stats th {
+    width: 20%;
+}
+
 #header-logo {
     display: none;
 }
@@ -1127,7 +1147,7 @@ td.news-province-modification {
     border-left: medium none;
 }
 .game-content tbody td {
-    padding-right: 20px;
+    padding-right: 15px;
 }
 .game-content tbody td.forum-moderator-buttons {
     padding-right: 10px;
