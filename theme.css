@@ -1143,6 +1143,7 @@ td.news-province-modification {
     font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-size: 13px;
     color: #A9A9A9;
+    white-space: nowrap;
 
 }
 
