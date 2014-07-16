@@ -81,7 +81,6 @@ div#right-column {
 
 #header {
     z-index: 900;
-    position: relative;
 }
 
 //#header-navigation div {
@@ -512,7 +511,7 @@ h3 {
     padding: 6px;
     top: -140px;
     position: absolute;
-    z-index: 10000;
+    z-index: 100000;
     width: 84px;
     text-align: center;
 }
