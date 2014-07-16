@@ -31,28 +31,6 @@ body {
     background-color: black;
 }
 
-#game-navigation .current-date {
-    top: -151px;
-}
-
-#game-navigation {
-    position: fixed;
-}
-
-.game-content {
-    margin-left: 112px;
-}
-
-.game-header {
-    margin-left: 112px;
-}
-
-#resource-bar {
-    margin-left: 112px;
-}
-
-
-
 .game-content h2:first-child {
     margin-top: 5px;
 }
