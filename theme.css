@@ -49,6 +49,7 @@ body {
     z-index: 10000;
     width: 95px;
     background: black;
+    height: 100%;
 }
 
 .game-content {
@@ -539,7 +540,7 @@ h3 {
     padding: 6px;
     position: absolute;
     z-index: 100000;
-    width: 80px;
+    width: 84px;
     text-align: center;
 }
 
