@@ -69,9 +69,9 @@ body {
     margin-top: 5px;
 }
 
-h2 br {
-    display: none;
-}
+//h2 br {
+    //display: none;
+//}
 
 .game-content table.two-column-stats th {
         font-size: 13px;
