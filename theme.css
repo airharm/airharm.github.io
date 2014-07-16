@@ -41,7 +41,7 @@ body {
 }
 
 #game-navigation .current-date {
-    top: -110px;
+    top: -150px;
 }
 
 #game-navigation {
@@ -104,7 +104,7 @@ h2 br {
 
 div#left-column {
     margin-bottom: 0px;
-    //margin-top: 50px;
+    margin-top: 40px;
 }
 div#right-column {
     //margin-top: 48px;
