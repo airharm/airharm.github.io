@@ -38,6 +38,7 @@ body {
 #game-navigation {
     position: fixed;
     z-index: 10000;
+    width: 95px;
 }
 
 .game-content {
@@ -532,7 +533,7 @@ h3 {
     padding: 6px;
     position: absolute;
     z-index: 100000;
-    width: 84px;
+    width: 80px;
     text-align: center;
 }
 
