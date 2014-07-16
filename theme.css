@@ -81,7 +81,7 @@ div#right-column {
 
 #header {
     z-index: 900;
-    position: absolute
+    position: relative;
 }
 
 //#header-navigation div {
