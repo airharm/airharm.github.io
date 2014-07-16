@@ -48,6 +48,7 @@ body {
     position: fixed;
     z-index: 10000;
     width: 95px;
+    background: black;
 }
 
 .game-content {
