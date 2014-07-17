@@ -40,7 +40,7 @@ body {
     margin-top: -10px;
     position: fixed;
     z-index: 900;
-    height: 50px;
+    height: 40px;
     width: 1000px;
     top: 0;
 }
@@ -116,7 +116,7 @@ body {
 div#left-column {
     margin-bottom: 0px;
     //margin-top: 40px;
-    top: 35px;
+    //top: 35px;
     //position: absolute;
 }
 
