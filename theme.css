@@ -31,9 +31,9 @@ body {
     background-color: black;
 }
 
-#content-area {
-    margin-bottom: 50px
-}
+//#content-area {
+    //margin-bottom: 50px
+//}
 
 #header {
     background: none repeat scroll 0 0 black;
@@ -117,7 +117,7 @@ div#left-column {
     margin-bottom: 0px;
     //margin-top: 40px;
     top: 35px;
-    position: relative;
+    position: absolute;
 }
 
 div#right-column {
