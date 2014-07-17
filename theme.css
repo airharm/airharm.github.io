@@ -113,8 +113,9 @@ div#left-column {
     margin-bottom: 0px;
     //margin-top: 40px;
     top: 35px;
-    position: absolute;
+    position: relative;
 }
+
 div#right-column {
     //margin-top: 48px;
 }
