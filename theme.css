@@ -38,6 +38,7 @@ body {
     z-index: 900;
     height: 50px;
     width: 1000px;
+    top: 0;
 }
 
 #game-navigation .current-date {
