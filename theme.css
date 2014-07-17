@@ -55,10 +55,12 @@ body {
 
 .game-content {
     margin-left: 112px;
+    float: none;
 }
 
 .game-header {
     margin-left: 112px;
+    float: none;
 }
 
 #resource-bar {
