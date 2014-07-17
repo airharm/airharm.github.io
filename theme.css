@@ -41,7 +41,8 @@ body {
 }
 
 #game-navigation .current-date {
-    top: -150px;
+    top: 0px;
+    position: fixed;
 }
 
 #game-navigation {
@@ -158,6 +159,7 @@ div#right-column {
     font-weight: normal;
     color: silver;
     padding-bottom: 0px;
+    position: fixed;
 }
 
 #account-header:hover
