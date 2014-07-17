@@ -167,7 +167,7 @@ div#right-column {
     font-weight: normal;
     color: silver;
     padding-bottom: 0px;
-    position: fixed;
+    //position: fixed;
     height: 24px;
 }
 
