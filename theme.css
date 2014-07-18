@@ -48,7 +48,7 @@ body {
 
 #game-navigation .current-date {
     top: 0px;
-    position: fixed;
+    position: absolute;
 }
 
 #game-navigation {
