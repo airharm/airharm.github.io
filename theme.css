@@ -63,6 +63,10 @@ body {
     #game-navigation {
         position: absolute;
     }
+    
+    #game-navigation .navigation {
+        position: absolute;
+    }
 }
 
 .game-content {
