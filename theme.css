@@ -39,7 +39,7 @@ body {
 #header {
     background: none repeat scroll 0 0 black;
     margin-top: -10px;
-    position: fixed;
+    position: absolute;
     z-index: 900;
     height: 40px;
     width: 1000px;
