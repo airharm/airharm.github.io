@@ -31,7 +31,7 @@ body {
     background-color: black;
 }
 
-@media handheld {
+@media handheld and (max-width: 999px) {
     #game-navigation {
           position: absolute;
     }
