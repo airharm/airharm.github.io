@@ -38,8 +38,8 @@ body {
 
 #header {
     background: none repeat scroll 0 0 black;
-    margin-top: -20px;
-    position: absolute;
+    margin-top: -10px;
+    position: fixed;
     z-index: 900;
     height: 40px;
     width: 1000px;
@@ -52,7 +52,7 @@ body {
 }
 
 #game-navigation {
-    position: absolute;
+    position: fixed;
     z-index: 10000;
     width: 100px;
     background: black;
