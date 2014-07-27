@@ -33,24 +33,6 @@ body {
     //margin-top: 30px;
 }
 
-@media only screen and (max-width: 1024px) {
-    #game-navigation {
-        position: absolute;
-    }
-    #header {
-        position: absolute;
-    }
-}
-
-@media only screen and (max-device-width: 1024px) {
-    #game-navigation {
-        position: absolute;
-    }
-    #header {
-        position: absolute;
-    }
-}
-
 //#content-area {
     //margin-bottom: 50px
 //}
@@ -80,9 +62,9 @@ body {
     font-family: 'Trebuchet MS',Helvetica,sans-serif;
     font-weight: normal;
     color: #dddddd;
-    margin: 0 6px 0 0;
+    margin: 0 6px 10px 0;
     //margin-top: 0;
-    //padding: 6px;
+    padding-bottom: 1px;
     z-index: 100000;
     width: 98px;
     height: 13px;
