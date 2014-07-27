@@ -37,6 +37,14 @@ body {
     //margin-bottom: 50px
 //}
 
+#news th, #news td {
+    padding: 0;
+}
+
+td.news-incident-report {
+    text-align: left;
+}
+
 #header {
     background: none repeat scroll 0 0 black;
     margin-top: -20px;
