@@ -71,7 +71,7 @@ body {
 }
 
 #game-navigation {
-    position: fixed;
+    position: absolute;
     z-index: 10000;
     width: 100px;
     background: black;
