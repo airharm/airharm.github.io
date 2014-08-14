@@ -276,6 +276,7 @@ div#right-column {
     /* display, opacity and special effects */
     //box-shadow: 3px -3px 5px #191919, -10px 10px 10px #000;
     text-align: left;
+    overflow: visible;
 }
 
 a {
