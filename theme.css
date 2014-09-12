@@ -355,6 +355,7 @@ h3 {
 }
 
 #footer {
+    display: none;
     color: #4d5355;
     font-size: 10px;
 }
