@@ -1396,7 +1396,7 @@ body.wysiwyg {
     background-repeat: no-repeat;
     background-position: center 3px;
     top: -7px;
-    left: 70px;
+    //left: 70px;
 }
 
 #bookmark-header:hover,
