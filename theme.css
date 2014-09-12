@@ -38,6 +38,14 @@ body {
     //margin-bottom: 50px
 //}
 
+th[colspan="7"] {
+    display: none;
+}
+
+#cellNotice {
+	display: none;
+}
+
 #news th, #news td {
     padding: 0;
 }
