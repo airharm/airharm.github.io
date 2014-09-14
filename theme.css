@@ -960,9 +960,10 @@ div.uploader span.action
     font-size: 14px;
     font-weight: normal;
     text-align: left;
-    -moz-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
-    -webkit-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
-    text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 1px #3d2f1a;
+    //-moz-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
+    //-webkit-text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 2px #3d2f1a;
+    //text-shadow: -1px 1px 2px #3d2f1a, 1px -1px 1px #3d2f1a;
+    color: black;
 }
 div.uploader span.filename,
 div.uploader span.action
