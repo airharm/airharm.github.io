@@ -43,7 +43,7 @@ body {
 }
 
 .chamberlain, .chamberlain a {
-    color: #ffc583;
+    color: #DDA0DD;
 }
 
 .protected, .protected a {
@@ -1114,7 +1114,7 @@ td.news-province-modification {
 .at-war,
 .intel-rotten { color: #F28585; }
 .chamberlain,
-.intel-stale { color: #FFC583; }
+.intel-stale { color: #DDA0DD; }
 .you { font-weight: normal; }
 .slot-number { font-size: 0.8em; color: #B0B0B0; }
 
