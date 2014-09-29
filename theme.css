@@ -35,30 +35,30 @@ body {
 }
 
 /* Smartphones */
-@media (max-width: 480px) {
-body {
+@media screen and (max-width: 480px) {
+  body {
    transform: scale(2.0);
    //transform-origin: 10% 10%;
    // add prefixed versions too.
-}
+  }
 }
 
 /* Smartphones to Tablets */
-@media (min-width: 481px) and (max-width: 767px) {
-body {
+@media screen and (min-width: 481px) and (max-width: 767px) {
+  body {
    transform: scale(2.0);
    //transform-origin: 10% 10%;
    // add prefixed versions too.
-}
+  }
 }
 
 /* Tablets */
-@media (min-width: 768px) and (max-width: 959px) {
-body {
+@media screen and (min-width: 768px) and (max-width: 959px) {
+  body {
    transform: scale(2.0);
    //transform-origin: 10% 10%;
    // add prefixed versions too.
-}
+  }
 }
 
 .you, .you a {
