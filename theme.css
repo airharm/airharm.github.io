@@ -35,31 +35,31 @@ body {
 }
 
 /* Smartphones */
-@media screen and (max-width: 600px) {
-  body {
-   transform: scale(2.0);
+//@media screen and (max-width: 600px) {
+  //body {
+   //transform: scale(2.0);
    //transform-origin: 10% 10%;
    // add prefixed versions too.
-  }
-}
+  //}
+//}
 
 /* Smartphones to Tablets */
-@media screen and (min-width: 601px) and (max-width: 767px) {
-  body {
-   transform: scale(2.0);
+//@media screen and (min-width: 601px) and (max-width: 767px) {
+  //body {
+   //transform: scale(2.0);
    //transform-origin: 10% 10%;
    // add prefixed versions too.
-  }
-}
+  //}
+//}
 
 /* Tablets */
-@media screen and (min-width: 768px) and (max-width: 959px) {
-  body {
-   transform: scale(2.0);
+//@media screen and (min-width: 768px) and (max-width: 959px) {
+  //body {
+   //transform: scale(2.0);
    //transform-origin: 10% 10%;
    // add prefixed versions too.
-  }
-}
+  //}
+//}
 
 .you, .you a {
     color: #00FFFF;
